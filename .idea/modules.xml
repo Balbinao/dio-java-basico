@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/collections-java-api-2023/collections-java-api-2023.iml" filepath="$PROJECT_DIR$/collections-java-api-2023/collections-java-api-2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dio-desafios/conta-banco/conta-banco.iml" filepath="$PROJECT_DIR$/dio-desafios/conta-banco/conta-banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dio-desafios/controle-candidatos/controle-candidatos.iml" filepath="$PROJECT_DIR$/dio-desafios/controle-candidatos/controle-candidatos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/debugging.java/debugging.java.iml" filepath="$PROJECT_DIR$/debugging.java/debugging.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dio-desafios/desafio-controle-fluxo/desafio-controle-fluxo.iml" filepath="$PROJECT_DIR$/dio-desafios/desafio-controle-fluxo/desafio-controle-fluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dio-java-basico.iml" filepath="$PROJECT_DIR$/.idea/dio-java-basico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura-excecoes/estrutura-excecoes.iml" filepath="$PROJECT_DIR$/estrutura-excecoes/estrutura-excecoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura-repeticao/estrutura-repeticao.iml" filepath="$PROJECT_DIR$/estrutura-repeticao/estrutura-repeticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-anatomia-classes/java-anatomia-classes.iml" filepath="$PROJECT_DIR$/java-anatomia-classes/java-anatomia-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-interface/java-interface.iml" filepath="$PROJECT_DIR$/java-interface/java-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-poo/java-poo.iml" filepath="$PROJECT_DIR$/java-poo/java-poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-terminal/java-terminal.iml" filepath="$PROJECT_DIR$/java-terminal/java-terminal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sistema-smart-tv/sistema-smart-tv.iml" filepath="$PROJECT_DIR$/sistema-smart-tv/sistema-smart-tv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" />
+    </modules>
+  </component>
+</project>
